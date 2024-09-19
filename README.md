@@ -29,7 +29,7 @@ This repository contains the back-end API for a social networking site where use
 
 Here is the link to a [video walkthrough](https://drive.google.com/file/d/1-4YSClNn7XEwE-krPIUcDnMLFidm5TDx/view?usp=sharing).
 
-![Screenshot of Endpoints in Insomnia](/API%20Endpoints.png)
+![Screenshot of Endpoints in Insomnia](/images/API%20Endpoints.png)
 
  ## API Endpoints
 
